@@ -1,1 +1,1 @@
-# Olá, alunas Devas!
+# Olá, alunas do Programa Devª!
